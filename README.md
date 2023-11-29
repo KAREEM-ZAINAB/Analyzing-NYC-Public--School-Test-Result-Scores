@@ -43,4 +43,4 @@ Next, is analyzing the average SAT score per borough. The query result showed th
 
 # Brooklyn numbers
 The previous query showed that schools in Staten Island produce higher scores across all three categories. However, there are only ten schools in Staten Island compared to an average of ninety-one schools in the other four boroughs. The result of the new query would focus on them.
-![](Brooklyn numbers.jpg)
+![](Brooklyn_numbers.jpg)
