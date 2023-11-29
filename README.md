@@ -44,3 +44,6 @@ Next, is analyzing the average SAT score per borough. The query result showed th
 # Brooklyn numbers
 The previous query showed that schools in Staten Island produce higher scores across all three categories. However, there are only ten schools in Staten Island compared to an average of ninety-one schools in the other four boroughs. The result of the new query would focus on them.
 ![](Brooklyn_numbers.jpg)
+
+# Conclusion
+In conclusion, the analysis of NYC public school SAT scores uncovered important information. Stuyvesant High School is a star performer in math and writing. Staten Island generally has higher average scores, but we need to consider the number of schools in each area. Our findings stress the need to look at the big picture, including missing data and where schools are located. This insight can help parents, educators, and policymakers make informed decisions to improve education across the city.
