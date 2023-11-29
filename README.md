@@ -11,6 +11,7 @@ So, let's go!
 
 # Inspecting the data
 It is good practice to check the nature of the data, for example, the total number of columns, and the total number of rows. The result of the first query shows that the dataset has seven columns and three hundred and seventy-five rows. The query was written for only ten rows to be returned.
+
 # Finding missing values
 The query returned when inspecting the dataset shows that the school on the first row, "New Explorations into Science, Technology and Math High School" has no data for percentage_tested. The next thing to do is to check if any of the schools have missing data for the percentage_tested column. To understand whether this is a missing data problem that is widespread. The number of total schools in the database was calculated to the ratio of the total percent_tested. The query result showed that there are twenty schools whose percent_tested is missing which makes up for 5% of the total schools in the database.
 ![](Finding_missing_values.jpg)
