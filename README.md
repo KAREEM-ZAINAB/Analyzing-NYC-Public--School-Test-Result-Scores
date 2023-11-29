@@ -1,4 +1,4 @@
-# Analyzing-NYC-Public--School-Test-Result-Scores
+# Analyzing-NYC-Public-School-Test-Result-Scores
 
 # Introduction
 Every year, American high school students take SATs, which are standardized tests intended to measure literacy, numeracy, and writing skills. 
