@@ -6,7 +6,7 @@ There are three sections - reading, math, and writing, each with a maximum score
 as they play a pivotal role in the admissions process.
 Analyzing the performance of schools is important for a variety of stakeholders, including policy and education professionals, researchers, 
 government, and even parents considering which school their children should attend.
-
+![](school.jpg)
 So, let's go!
 
 # Inspecting the data
